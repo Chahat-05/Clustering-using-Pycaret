@@ -10,4 +10,4 @@
 +  G3: final grade<br>
 *All these are categorical columns having numeric value from 0 to 20.*<br>
 ## Result
-*Mean Shift Algorithm works best for the given dataset.*
+*K-Mean Shift Algorithm works best for the given dataset.*
