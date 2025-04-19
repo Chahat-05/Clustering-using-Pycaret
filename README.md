@@ -8,6 +8,6 @@
 +  G1: first period grade
 +  G2: second period grade
 +  G3: final grade<br>
-*All these are categorical columns havingnumeric value from 0 to 20.*<br>
+*All these are categorical columns having numeric value from 0 to 20.*<br>
 ## Result
 *Mean Shift Algorithm works best for the given dataset.*
